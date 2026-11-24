@@ -16,7 +16,7 @@
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/2048-java.git
+git clone https://github.com/siteshnaikE/2048-java.git
 cd 2048-java
 javac Game2048.java
 java Game2048
