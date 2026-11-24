@@ -1,7 +1,3 @@
-`# 2048 — Java Console Edition
-
-A clean, dependency-free implementation of the classic 2048 puzzle game, playable in any terminal. Pure JDK — no libraries, no frameworks, one source file. +------+------+------+------+ | 2| | 4| | +------+------+------+------+ | 8| 4| 2| 2| +------+------+------+------+ | 16| 8| 64| | +------+------+------+------+ | 256| 32| 8| 4| +------+------+------+------+ Score: 1180 Best: 1180 Your move:
-
 
 ## Features
 
